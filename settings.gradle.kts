@@ -1,5 +1,13 @@
 rootProject.name = "drobotk-rvp"
 
+dependencyResolutionManagement {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        google()
+    }
+}
+
 pluginManagement {
     repositories {
         mavenLocal()

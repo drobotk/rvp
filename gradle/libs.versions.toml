@@ -3,7 +3,7 @@ revanced-patcher = "22.0.1"
 # Tracking https://github.com/google/smali/issues/64.
 #noinspection GradleDependency
 smali = "3.0.5"
-revanced-patches = "6.0.0"
+revanced-patches = "6.1.1-dev.4"
 
 [libraries]
 revanced-patches = { module = "app.revanced:patches", version.ref = "revanced-patches" }
